@@ -168,3 +168,5 @@ Returns service status and version.
 - [ ] `VITE_API_URL` set in Vercel to Railway URL
 - [ ] Test `/api/v1/health` endpoint after deploy
 - [ ] Test file upload with a real PDF resume
+
+## Live View
